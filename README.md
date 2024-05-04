@@ -13,6 +13,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+npm config set registry https://registry.npmmirror.com
 npm install
 ```
 
